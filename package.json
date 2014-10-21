@@ -1,5 +1,5 @@
 {
-    "name": "me-ssl",
+    "name": "ssl",
     "description": "Embedthis SSL Interface",
     "title": "Embedthis Development",
     "version": "0.8.0",
@@ -7,19 +7,17 @@
         "me",
         "ssl",
     ],
-    "dependencies": {
-    },
     "author": {
         "name": "Embedthis Software",
         "email": "dev@embedthis.com",
-        "url": "http://embedthis.com"
+        "url": "https://embedthis.com"
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/embedthis/me-ssl.git"
+        "url": "git://github.com/embedthis/ssl.git"
     },
     "bugs": {
-        "url": "http://github.com/embedthis/me-ssl/issues"
+        "url": "http://github.com/embedthis/ssl/issues"
     },
     "licenses": [
         {
@@ -28,7 +26,7 @@
         },
         {
             "type": "Commercial",
-            "url": "http://embedthis.com/licensing/"
+            "url": "https://embedthis.com/licensing/"
         }
     ]
 }
